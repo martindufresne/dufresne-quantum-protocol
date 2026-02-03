@@ -4,6 +4,7 @@
 ![License](https://img.shields.io/badge/license-MIT-green)
 ![Status](https://img.shields.io/badge/status-experimental-orange)
 ![Platform](https://img.shields.io/badge/platform-IBM%20Quantum-purple)
+[![DOI](https://zenodo.org/badge/1149209553.svg)](https://doi.org/10.5281/zenodo.18475488)
 
 ## 📄 Abstract
 
