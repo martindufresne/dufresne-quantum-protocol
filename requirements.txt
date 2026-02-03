@@ -1,0 +1,6 @@
+qiskit>=1.0.0
+qiskit-ibm-runtime
+pennylane>=0.34.0
+pennylane-qiskit
+matplotlib
+numpy

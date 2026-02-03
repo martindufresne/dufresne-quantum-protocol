@@ -1,0 +1,25 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.ipynb_checkpoints/
+
+# Virtual environments
+venv/
+env/
+.env
+
+# Temporary LaTeX files (only the .tex and .pdf files are kept)
+*.aux
+*.log
+*.out
+*.fls
+*.fdb_latexmk
+*.synctex.gz
+
+# MAC OS
+.DS_Store
+
+# SECRETS (Important !)
+ibm_token.txt
+config.py
